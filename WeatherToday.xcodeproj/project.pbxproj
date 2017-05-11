@@ -15,9 +15,9 @@
 		070A466B1EBC12FF00045DF0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 070A46691EBC12FF00045DF0 /* LaunchScreen.storyboard */; };
 		070A46761EBC130000045DF0 /* WeatherTodayTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070A46751EBC130000045DF0 /* WeatherTodayTests.swift */; };
 		070A46811EBC360B00045DF0 /* weatherModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 070A46801EBC360B00045DF0 /* weatherModel.swift */; };
-		072A9F381EBFAFAD00B04971 /* cityList.json in Resources */ = {isa = PBXBuildFile; fileRef = 072A9F371EBFAFAD00B04971 /* cityList.json */; };
 		072A9F3A1EBFC16C00B04971 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 072A9F391EBFC16C00B04971 /* PageViewController.swift */; };
 		07429C6C1EC24E9A00FC6598 /* FavouriteTableVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07429C6B1EC24E9A00FC6598 /* FavouriteTableVC.swift */; };
+		074B53CD1EC5268B0023277F /* cityList.json in Resources */ = {isa = PBXBuildFile; fileRef = 074B53CC1EC5268B0023277F /* cityList.json */; };
 		0754CDFD1EC11B24003FAB8A /* TabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0754CDFC1EC11B24003FAB8A /* TabViewController.swift */; };
 		0754CDFF1EC11C2B003FAB8A /* SearchTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0754CDFE1EC11C2B003FAB8A /* SearchTableTableViewController.swift */; };
 		0754CE011EC11E39003FAB8A /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0754CE001EC11E39003FAB8A /* HomeViewController.swift */; };
@@ -52,9 +52,9 @@
 		070A46751EBC130000045DF0 /* WeatherTodayTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherTodayTests.swift; sourceTree = "<group>"; };
 		070A46771EBC130000045DF0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		070A46801EBC360B00045DF0 /* weatherModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = weatherModel.swift; sourceTree = "<group>"; };
-		072A9F371EBFAFAD00B04971 /* cityList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = cityList.json; path = ../../../Downloads/cityList.json; sourceTree = "<group>"; };
 		072A9F391EBFC16C00B04971 /* PageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		07429C6B1EC24E9A00FC6598 /* FavouriteTableVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavouriteTableVC.swift; sourceTree = "<group>"; };
+		074B53CC1EC5268B0023277F /* cityList.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cityList.json; sourceTree = "<group>"; };
 		0754CDFC1EC11B24003FAB8A /* TabViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabViewController.swift; sourceTree = "<group>"; };
 		0754CDFE1EC11C2B003FAB8A /* SearchTableTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchTableTableViewController.swift; sourceTree = "<group>"; };
 		0754CE001EC11E39003FAB8A /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
@@ -116,8 +116,8 @@
 				070A46671EBC12FF00045DF0 /* Assets.xcassets */,
 				070A46611EBC12FF00045DF0 /* Main.storyboard */,
 				070A46691EBC12FF00045DF0 /* LaunchScreen.storyboard */,
+				074B53CC1EC5268B0023277F /* cityList.json */,
 				070A466C1EBC12FF00045DF0 /* Info.plist */,
-				072A9F371EBFAFAD00B04971 /* cityList.json */,
 				070A46641EBC12FF00045DF0 /* WeatherToday.xcdatamodeld */,
 				078D71DA1EC1C27600AA7811 /* City.swift */,
 			);
@@ -239,7 +239,7 @@
 			files = (
 				070A466B1EBC12FF00045DF0 /* LaunchScreen.storyboard in Resources */,
 				070A46681EBC12FF00045DF0 /* Assets.xcassets in Resources */,
-				072A9F381EBFAFAD00B04971 /* cityList.json in Resources */,
+				074B53CD1EC5268B0023277F /* cityList.json in Resources */,
 				070A46631EBC12FF00045DF0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

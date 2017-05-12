@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3E3DC4BA343E57ABE24E36E61BE35D5210DD4A3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "74FE6CE0165A43EFE81079BF1112DA7D04ED4E51" : 9223372036854775807,
+    "A3E3DC4BA343E57ABE24E36E61BE35D5210DD4A3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BCE7AE5C-47E4-40BF-9E1C-1815F2EDDF5D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "74FE6CE0165A43EFE81079BF1112DA7D04ED4E51" : "",
+    "A3E3DC4BA343E57ABE24E36E61BE35D5210DD4A3" : "WeatherToday\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeatherToday",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeatherToday.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/reenapps\/WA.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "74FE6CE0165A43EFE81079BF1112DA7D04ED4E51"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ren-y\/WeatherToday.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3E3DC4BA343E57ABE24E36E61BE35D5210DD4A3"
+    }
+  ]
+}
